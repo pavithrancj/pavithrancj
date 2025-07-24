@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pavithran CJ</h1>
 <h3 align="center">Cyber Security and Programmer Analyst from Toronto, Canada</h3>
 
-- 📫 Reach me at **cjpavithran@gmail.com**
+<!-- Socials -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+  <a href="mailto:cjpavithran@gmail.com" title="Email - cjpavithran@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/pavithran-c-j" title="LinkedIn - Pavithran CJ" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" />
+  </a>
+</div>
 
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/pavithran-c-j)
 
 - 🔭 I’m currently working on **Cloud Security, Threat Detection, and Web Exploitation Projects**
 
