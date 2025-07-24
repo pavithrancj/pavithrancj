@@ -10,13 +10,14 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" />
   </a>
 </div>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<details>
+  <summary><b><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;About me</b></summary>
 
-- 🔭 I’m currently working on **Cloud Security, Threat Detection, and Web Exploitation Projects**
+  I am Pavithran CJ, a dedicated Cyber Security and Programmer Analyst based in Toronto, Canada.With a strong passion for cloud security, threat detection, and web exploitation, I focus on protecting systems by identifying vulnerabilities and strengthening defenses.My expertise spans a range of cybersecurity domains including malware analysis, phishing simulations, mobile app security following OWASP Mobile Top 10 standards, and red teaming with simulated attacks and vulnerability assessments.I am skilled in using a variety of security tools and programming languages, combining technical knowledge with analytical skills to build effective security solutions. Outside work, I’m a gym enthusiast who enjoys lifting heavy and maintaining physical fitness.  
 
-- ⚡ Fun fact: I love lifting heavy at the gym 🏋️‍♂️
-
----
+</details>
 
 <details>
   <summary><b>🧠 Tech Areas of Focus</b></summary>
