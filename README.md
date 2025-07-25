@@ -1,3 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+<!-- [Socials](https://readme-typing-svg.demolab.com/demo/?center=true&vCenter=true) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=449211&center=true&repeat=false&width=435&lines=Pavithran+CJ" alt="Typing SVG" />
@@ -20,9 +22,7 @@
     </a>&nbsp;&nbsp;&nbsp;
   </p>
 </div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- About -->
 <details>
   <summary><b><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;About me</b></summary>
@@ -81,3 +81,4 @@ Outside of work, I'm a passionate <strong>gym enthusiast</strong> 🏋️‍♂�
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
