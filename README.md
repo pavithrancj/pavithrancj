@@ -1,12 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 <!-- [Socials](https://readme-typing-svg.demolab.com/demo/?center=true&vCenter=true) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=449211&center=true&repeat=false&width=435&lines=Pavithran+CJ" alt="Typing SVG" />
   </a>
 </div>
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=449211&center=true&vCenter=true&width=435&lines=Cyber+Security+Analyst;Programmer+Analyst;Toronto%2C+Canada" alt="Typing SVG" />
   </a>
 </p>
