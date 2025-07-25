@@ -53,18 +53,6 @@ Outside of work, I'm a passionate <strong>gym enthusiast</strong> 🏋️‍♂�
 
 </details>
 
-<details>
-  <summary><b>🧠 Tech Areas of Focus</b></summary>
-
-- Cloud Security (GCP)  
-- Threat Detection & Response (SIEM, Wazuh)  
-- Web Application Security  
-- Malware Analysis  
-- Phishing Simulation  
-- Mobile Application Security (OWASP Top 10)  
-- Red Teaming (Simulated Attacks & Vulnerability Analysis)  
-
-</details>
 
 <details>
   <summary><b>🛠️ Tools & Technologies</b></summary>
