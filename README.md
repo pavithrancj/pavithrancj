@@ -27,7 +27,28 @@
 <details>
   <summary><b><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;About me</b></summary>
 
-  I am Pavithran CJ, a dedicated Cyber Security and Programmer Analyst based in Toronto, Canada.With a strong passion for cloud security, threat detection, and web exploitation, I focus on protecting systems by identifying vulnerabilities and strengthening defenses.My expertise spans a range of cybersecurity domains including malware analysis, phishing simulations, mobile app security following OWASP Mobile Top 10 standards, and red teaming with simulated attacks and vulnerability assessments.I am skilled in using a variety of security tools and programming languages, combining technical knowledge with analytical skills to build effective security solutions. Outside work, I’m a gym enthusiast who enjoys lifting heavy and maintaining physical fitness.  
+<blockquote>
+
+I’m <strong>Pavithran CJ</strong>, a dedicated <strong>Cybersecurity & Programmer Analyst</strong> based in <strong>Toronto, Canada</strong>.  
+With a strong passion for <strong>cloud security</strong>, <strong>threat detection</strong>, and <strong>web exploitation</strong>,  
+I specialize in identifying system vulnerabilities and strengthening digital defenses.
+
+I work across various cybersecurity domains such as:
+- Malware analysis 🐛  
+- Phishing simulations 🎯  
+- Mobile app security (OWASP Mobile Top 10) 📱  
+- Red teaming & simulated attacks 🛡️  
+
+I enjoy combining technical expertise with analytical thinking to build robust security solutions.  
+I'm skilled with numerous tools, programming languages, and enjoy staying hands-on in the ever-evolving security landscape.
+
+Outside of work, I'm a passionate <strong>gym enthusiast</strong> 🏋️‍♂️ who believes discipline in the gym translates to discipline in code.
+
+</blockquote>
+  
+----
+  
+  </p>
 
 </details>
 
