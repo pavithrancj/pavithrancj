@@ -10,7 +10,6 @@
 </p>
 
 
-<!-- Socials -->
 <div align="center">
   <p align="center">
     <a href="mailto:cjpavithran@gmail.com" title="Email - cjpavithran@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -18,7 +17,7 @@
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/pavithran-c-j" title="LinkedIn - Pavithran CJ" target="_blank" rel="noopener noreferrer">
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" />
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 
