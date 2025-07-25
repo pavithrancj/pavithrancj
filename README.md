@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=449211&center=true&repeat=false&width=435&lines=Pavithran+CJ" alt="Typing SVG" />
   </a>
 </div>
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=449211&center=true&vCenter=true&width=435&lines=Cyber+Security+Analyst;Programmer+Analyst;Toronto%2C+Canada" alt="Typing SVG" />
@@ -12,17 +10,20 @@
 </p>
 
 
-
 <!-- Socials -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-  <a href="mailto:cjpavithran@gmail.com" title="Email - cjpavithran@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/pavithran-c-j" title="LinkedIn - Pavithran CJ" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" />
-  </a>
+<div align="center">
+  <p align="center">
+    <a href="mailto:cjpavithran@gmail.com" title="Email - cjpavithran@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1" alt="Email" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/pavithran-c-j" title="LinkedIn - Pavithran CJ" target="_blank" rel="noopener noreferrer">
+      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+
 
 <details>
   <summary><b><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;About me</b></summary>
