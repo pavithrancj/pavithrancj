@@ -73,7 +73,7 @@ Outside of work, I'm a passionate <strong>gym enthusiast</strong> 🏋️‍♂�
 <details>
   <summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;Projects</b></summary>
 
-- [**Phishing Simulation Toolkit**](https://github.com/yourusername/phishing-simulation-toolkit)  
+- [**Phishing Simulation Toolkit**](https://github.com/pavithrancj/phishing-tool.git)  
   Simulated phishing attacks by cloning social media platforms and capturing credentials using Python and ngrok tunnels to highlight the impact of credential harvesting.
 
 - [**Mobile App Security Testing Lab (OWASP Top 10)**](https://github.com/pavithrancj/OWASP-Top-0-Mobile-Application)  
