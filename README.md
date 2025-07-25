@@ -55,7 +55,7 @@ Outside of work, I'm a passionate <strong>gym enthusiast</strong> 🏋️‍♂�
 
 <!-- tools -->
 <details>
-  <summary><b>🛠️ Tools & Technologies</b></summary>
+  <summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;Skills</b></summary>
 
 | **Category** | **Tools & Technologies** |
 |-------------|--------------------------|
@@ -71,7 +71,7 @@ Outside of work, I'm a passionate <strong>gym enthusiast</strong> 🏋️‍♂�
 </details>
 
 <details>
-  <summary><b>📁 Projects</b></summary>
+  <summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;Projects</b></summary>
 
 - [**Phishing Simulation Toolkit**](https://github.com/yourusername/phishing-simulation-toolkit)  
   Simulated phishing attacks by cloning social media platforms and capturing credentials using Python and ngrok tunnels to highlight the impact of credential harvesting.
