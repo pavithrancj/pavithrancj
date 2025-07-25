@@ -9,7 +9,7 @@
   </a>
 </p>
 
-
+<!-- Socials -->
 <div align="center">
   <p align="center">
     <a href="mailto:cjpavithran@gmail.com" title="Email - cjpavithran@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -23,7 +23,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 
-
+<!-- About -->
 <details>
   <summary><b><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;About me</b></summary>
 
@@ -36,7 +36,7 @@ I specialize in identifying system vulnerabilities and strengthening digital def
 
 I work across various cybersecurity domains such as:
 - Malware analysis 🐛  
-- Phishing simulations 🎯  
+- Penetration Testing 🎯  
 - Mobile app security (OWASP Mobile Top 10) 📱  
 - Red teaming & simulated attacks 🛡️  
 
