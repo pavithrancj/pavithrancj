@@ -28,7 +28,8 @@
   <summary><b><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;About me</b></summary>
 
 <blockquote>
-
+<img align="right" width="250" src="https://github.com/pavithrancj/pavithrancj/raw/main/cctv.gif" alt="Cybersecurity Visual" />
+    
 I’m <strong>Pavithran CJ</strong>, a dedicated <strong>Cybersecurity & Programmer Analyst</strong> based in <strong>Toronto, Canada</strong>.  
 With a strong passion for <strong>cloud security</strong>, <strong>threat detection</strong>, and <strong>web exploitation</strong>,  
 I specialize in identifying system vulnerabilities and strengthening digital defenses.
