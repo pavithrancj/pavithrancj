@@ -75,7 +75,7 @@ Outside of work, I'm a passionate <strong>gym enthusiast</strong> 🏋️‍♂�
   
 | Category              | Projects                                                                                          |
 |-----------------------|-------------------------------------------------------------------------------------------------|
-| 🛡️ Cybersecurity       | [![](https://img.shields.io/badge/-🎣%20Phishing%20Simulation%20Toolkit-000)](https://github.com/pavithrancj/phishing-tool.git) <br> [![](https://img.shields.io/badge/-📱%20OWASP%20Mobile%20Security%20Project-000)](https://github.com/pavithrancj/OWASP-Top-0-Mobile-Application) |
+| 🛡️ Cybersecurity       | [![](https://img.shields.io/badge/-🎣%20Phishing%20Simulation%20Toolkit-000)](https://github.com/pavithrancj/phishing-tool.git) <br> [![](https://img.shields.io/badge/-📱%20OWASP%20Mobile%20App%20Security%20Project-000)](https://github.com/pavithrancj/OWASP-Top-0-Mobile-Application) |
 | 📊 Data Analytics      | [![](https://img.shields.io/badge/-🕵️%20Toronto%20Police%20Homicide%20Analytics-000)](https://www.linkedin.com/feed/update/urn:li:activity:7147258888612962304/)          |
 
 </details>
