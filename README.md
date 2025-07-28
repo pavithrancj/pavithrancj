@@ -72,12 +72,11 @@ Outside of work, I'm a passionate <strong>gym enthusiast</strong> 🏋️‍♂�
 
 <details>
   <summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;Projects</b></summary>
-
-- [**Phishing Simulation Toolkit**](https://github.com/pavithrancj/phishing-tool.git)  
-  Simulated phishing attacks by cloning social media platforms and capturing credentials using Python and ngrok tunnels to highlight the impact of credential harvesting.
-
-- [**Mobile App Security Testing Lab (OWASP Top 10)**](https://github.com/pavithrancj/OWASP-Top-0-Mobile-Application)  
-  Evaluated open-source mobile applications against OWASP Mobile Top 10 using MobSF and Frida, identified vulnerabilities, and suggested mitigation strategies.
+  
+| Category              | Projects                                                                                          |
+|-----------------------|-------------------------------------------------------------------------------------------------|
+| 🛡️ Cybersecurity       | [![](https://img.shields.io/badge/-🎣%20Phishing%20Simulation%20Toolkit-000)](https://github.com/pavithrancj/phishing-tool.git) <br> [![](https://img.shields.io/badge/-📱%20OWASP%20Mobile%20Security%20Lab-000)](https://github.com/pavithrancj/OWASP-Top-0-Mobile-Application) |
+| 📊 Data Analytics      | [![](https://img.shields.io/badge/-🕵️%20Toronto%20Police%20Homicide%20Analytics-000)](#)          |
 
 </details>
 
